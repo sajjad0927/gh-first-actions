@@ -1,7 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 
 name: My First Action
-on: workflow-dispatch
+on: workflow_dispatch
 jobs:
   first-job:
   runs-on: ubuntu-latest
