@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print Welcome
-      - run: echo "Welcome to Fistst Git hub action"
+        run: echo "Welcome to Fistst Git hub action"
       - name: Print Goob Bye
-      - run: echo "Thanks for using Github Actions, Good Bye!"
+        run: echo "Thanks for using Github Actions, Good Bye!"
